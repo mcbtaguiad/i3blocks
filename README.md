@@ -7,4 +7,4 @@ interval=once
 signal=1
 
 Add to NetworkManager dispatcher.d (/etc/NetworkManager/dispatcher.d). 
-pkill -SIGRTMIN+1 i3blocks
+pkill -SIGRTMIN+9 i3blocks
